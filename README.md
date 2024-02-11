@@ -4,7 +4,7 @@ Custom FiveM Vine Props - Retextured by yours truly! - Free release for anyone i
 
 **Blue Vine**
 ![image](https://github.com/PrivateGiles/PG-Vine-Props/assets/56416493/d39c1c9f-8498-4808-a5d1-a0b34e562a57)
-
+**Green Vine**
 ![image](https://github.com/PrivateGiles/PG-Vine-Props/assets/56416493/6523eec1-19b2-4de6-ae01-60dec8366c42)
 
 ![image](https://github.com/PrivateGiles/PG-Vine-Props/assets/56416493/0ffb1e22-a4c3-4062-8f90-baac3659e7b4)
