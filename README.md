@@ -1,5 +1,9 @@
 # PG-Vine-Props
-Custom FiveM Vine Props - Retextured by yours truly! - Free release for anyone interested
+![Wine Estate Facebook Cover](https://github.com/PrivateGiles/PG-Vine-Props/assets/56416493/53ed2193-ed82-4547-8226-8de4b3741e9a)
+
+
+Here is a free release of 5x FiveM vine props (Blue / Green / Purple / Red and Yellow) - Feel free to use these as you wish! 
+I've also packaged up the props into a usable FiveM asset for ease of deployment! 
 
 
 **Blue Vine**
